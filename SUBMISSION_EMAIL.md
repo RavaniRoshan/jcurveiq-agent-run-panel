@@ -13,4 +13,4 @@ You can find my setup instructions and an "Evaluator Path" in `README.md`, and t
 
 Best regards,
 Roshan Damm
-[Link to GitHub Repository]
+https://github.com/RavaniRoshan/jcurveiq-agent-run-panel
